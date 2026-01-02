@@ -39,7 +39,7 @@ const Navbar = () => {
        
 
     </div>
-    <h1 className=''>Dev P  </h1>
+    <h1 className=''>Akshay </h1>
      </nav>
   )
 }
